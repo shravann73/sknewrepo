@@ -6,4 +6,8 @@ class bank()
 {
 	s.o.p("amount==")	
 }
+	 p.static withdraw  main()
+{
+        s.o.p("amount==")
+}
 
