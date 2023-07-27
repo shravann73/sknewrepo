@@ -39,4 +39,12 @@ class Docker D
          s.o.print(" Hello World!");
      }
   }
+class jenkins E
+  {
+     public static void main(...)
+     {
+         s.o.print(" Hello World!");
+         s.o.print(" Hello World!");
+     }
+  }
 
