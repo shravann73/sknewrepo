@@ -23,4 +23,12 @@ class Demo B
      }
   }
 
+class ansible C
+  {
+     public static void main(...)
+     {
+         s.o.print(" Hello World!");
+         s.o.print(" Hello World!");
+     }
+  }
 
